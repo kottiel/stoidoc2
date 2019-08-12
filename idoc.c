@@ -21,7 +21,7 @@
 //#define F_ "F_"
 #define F_ ""
 
-/* length of '_idoc (stoidoc 2.0)->txt' extension                            */
+/* length of '_idoc (stoidoc 2.0)->txt' extension                        */
 #define FILE_EXT_LEN   36
 
 /* length of GTIN-13                                                     */
